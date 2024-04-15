@@ -1,0 +1,1 @@
+simple directory and API fuzzer in the case of directories the full URL will be printed along with the status code if the status code isn't 404 and in the case of API the API endpoint full URL will be printed along with the status code if the status code isn't 404 and the content type of the response is JSON
